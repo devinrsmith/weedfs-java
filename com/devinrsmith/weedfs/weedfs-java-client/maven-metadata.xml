@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.devinrsmith.weedfs</groupId>
+  <artifactId>weedfs-java-client</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140923024237</lastUpdated>
+  </versioning>
+</metadata>
